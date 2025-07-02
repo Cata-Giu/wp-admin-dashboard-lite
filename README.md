@@ -10,8 +10,38 @@
 
 ###
 
-<p align="left">Dashboard<br>Displays a quick overview of your store’s activity, including the latest WooCommerce orders with key details such as order number, customer name, status, and total amount.<br><br>Orders<br>Lists all recent WooCommerce orders (including processing, completed, and placeholder ones), allowing admins to track order activity at a glance in a simplified layout.<br><br>Products<br>Shows all WooCommerce products with filters for status (published/draft) and categories. Displays product name, price, stock, status, and associated categories.<br><br>Reports<br>Provides a visual sales chart for the last 6 months based on the number of orders, helping store owners analyze trends and performance.<br><br>Logout<br>Securely logs out the current user and redirects to the WordPress login page.</p>
+<p align="left">
+  <h2>Dashboard</h2>
+  <br>Displays a quick overview of your store’s activity, including the latest WooCommerce orders with key details such as order number, customer name, status, and total amount.
+  <br><br>
 
+<img src="https://github.com/Cata-Giu/wp-admin-dashboard-lite/blob/ae991684434ddfe114abf935de18740e0c61193c/Plugin%20Images/1.png?raw=true" alt="Dashboard Screenshot" width="500"/>
+
+  <h2>Coupons</h2>
+  <br>Create and view all WooCommerce discount codes from the front-end. See name, type, amount, limits, and expiration in a clean table.
+  <br><br>
+
+<img src="https://github.com/Cata-Giu/wp-admin-dashboard-lite/blob/ae991684434ddfe114abf935de18740e0c61193c/Plugin%20Images/2.png?raw=true" alt="Dashboard Screenshot" width="500"/>
+  
+  <h2>Orders</h2>
+  <br>Lists all recent WooCommerce orders (including processing, completed, and placeholder ones), allowing admins to track order activity at a glance in a simplified layout.
+  <br><br>
+
+<img src="https://github.com/Cata-Giu/wp-admin-dashboard-lite/blob/ae991684434ddfe114abf935de18740e0c61193c/Plugin%20Images/3.png?raw=true" alt="Dashboard Screenshot" width="500"/>
+  
+  <h2>Products</h2>
+  <br>Shows all WooCommerce products with filters for status (published/draft) and categories. Displays product name, price, stock, status, and associated categories.
+  <br><br>
+
+<img src="https://github.com/Cata-Giu/wp-admin-dashboard-lite/blob/ae991684434ddfe114abf935de18740e0c61193c/Plugin%20Images/4.png?raw=true" alt="Dashboard Screenshot" width="500"/>
+<img src="https://github.com/Cata-Giu/wp-admin-dashboard-lite/blob/ae991684434ddfe114abf935de18740e0c61193c/Plugin%20Images/5.png?raw=true" alt="Dashboard Screenshot" width="500"/>
+
+  <h2>Reports</h2>
+  <br>Provides a visual sales chart for the last 6 months based on the number of orders, helping store owners analyze trends and performance.
+  <br><br>
+
+<img src="https://github.com/Cata-Giu/wp-admin-dashboard-lite/blob/ae991684434ddfe114abf935de18740e0c61193c/Plugin%20Images/6.png?raw=true" alt="Dashboard Screenshot" width="500"/>
+  
 ###
 
 <h2 align="left">It was coded using...</h2>
